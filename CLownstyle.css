@@ -255,9 +255,9 @@ body{
   display: block;
   border: solid 0.5px black;
   border-radius: 8px;
-  margin-top: 6%;
-  width: 65%;
-  height: 50vh;
+  margin-top: 45%;
+  width: 80vw;
+  height: 35vh;
   background: rgba(0, 0, 0, 0.6);
   animation: boxColor 5s infinite;
 }
@@ -265,8 +265,8 @@ body{
 @keyframes clownMove {
   0%   {top: 0px; left:  0px;}
   25%  {top: 0px; left: 160px; }
-  50%  {top: 100px; left: 160px;}
-  75%  {top: 100px; left: 0px; }
+  50%  {top: 110px; left: 160px;}
+  75%  {top: 110px; left: 0px; }
   100% {top: 0px; left: 0px;}
 }
 
